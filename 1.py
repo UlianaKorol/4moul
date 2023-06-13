@@ -35,3 +35,6 @@ def strcounter(s):
         print(sym, count)
 
 strcounter('abcadccdb')
+
+print (21)
+print (21)
